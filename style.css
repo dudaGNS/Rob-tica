@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #312a2a;
 }
 
 .container {
@@ -37,7 +37,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: rgb(27, 1, 1);
     text-decoration: none;
 }
 
@@ -45,9 +45,9 @@ header nav ul li a {
 section {
     margin: 2em 0;
     padding: 1em;
-    background: white;
+    background: rgb(0, 0, 0);
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(57, 169, 177, 0.1);
 }
 
 h2 {
@@ -66,7 +66,7 @@ h2 {
     padding: 1em;
     border-radius: 8px;
     text-align: center;
-    border: 1px solid #ddd;
+    border: 1px solid #4bc8df;
 }
 
 .projeto h3 {
@@ -86,7 +86,7 @@ form label {
 form input, form textarea, form button {
     margin-top: 5px;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #4bc8df;
     border-radius: 4px;
 }
 
